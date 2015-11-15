@@ -18,3 +18,12 @@
 ```
 #force_color_prompt=yes
 ```
+
+## Kill process
+Find the pid of process to be killed
+```
+ps aux | grep processname
+```
+The pid will be in the second column
+
+`kill pid`
