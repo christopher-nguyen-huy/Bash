@@ -20,6 +20,7 @@
 ```
 
 ## Kill process
+http://www.cyberciti.biz/faq/kill-process-in-linux-or-terminate-a-process-in-unix-or-linux-systems/
 Find the pid of process to be killed
 ```
 ps aux | grep processname
